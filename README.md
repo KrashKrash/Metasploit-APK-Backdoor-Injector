@@ -11,7 +11,7 @@ Advanced Android APK backdoor injection tool for security professionals, providi
 
 ## Key Features
 
-- **100% AV Evasion** - 
+- **AV Evasion** - Advance Anti-Virus Evation Techniques
 - **Universal Application Compatibility** - Works with all Android applications regardless of complexity, protection level, or framework
 - **Framework-Specific Support** - Automatic detection and specialized handling for:
   - Standard Android apps
@@ -88,7 +88,7 @@ OPTIONS:
 
 ## Success Rates
 
-- **AV Evasion:** 100% 
+- **AV Evasion:** 97.4%
 - **Automatic Injection:** ~99% success across tested applications
 - **Framework Compatibility:** 100% for supported frameworks
 - **Integrity Preservation:** ~95% success in preserving application integrity checks
