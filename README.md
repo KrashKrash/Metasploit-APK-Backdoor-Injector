@@ -33,10 +33,10 @@ Advanced Android APK backdoor injection tool for security professionals, providi
 
 ```bash
 # Clone the repository or download the script
-git clone https://github.com/your-username/metasploit-apk-backdoor-injector.git
+git clone https://github.com/KrashKrash/Metasploit-APK-Backdoor-Injector
 
 # Make the script executable
-chmod +x apkinjector
+chmod +x apk-injector
 
 # Move to system path (optional)
 sudo mv apkinjector /usr/local/bin/
