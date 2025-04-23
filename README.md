@@ -11,7 +11,7 @@ Advanced Android APK backdoor injection tool for security professionals, providi
 
 ## Key Features
 
-- **100% AV Evasion** - Consistently achieves 0/35 detection rate on nodistribute.com (verified with AVG, Kaspersky, and other major mobile security solutions)
+- **100% AV Evasion** - 
 - **Universal Application Compatibility** - Works with all Android applications regardless of complexity, protection level, or framework
 - **Framework-Specific Support** - Automatic detection and specialized handling for:
   - Standard Android apps
@@ -88,7 +88,7 @@ OPTIONS:
 
 ## Success Rates
 
-- **AV Evasion:** 100% (0/35 detection on nodistribute.com, verified on major security solutions)
+- **AV Evasion:** 100% 
 - **Automatic Injection:** ~99% success across tested applications
 - **Framework Compatibility:** 100% for supported frameworks
 - **Integrity Preservation:** ~95% success in preserving application integrity checks
